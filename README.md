@@ -1,7 +1,4 @@
-# resume
-<h1><em><strong>Laura Mazur</strong></em></h1>
-<ul>
-<li>Am studiat la <em>Gimnaziul Tîrșiței</em></li>
-<li>În prezent studiez la <strong>CUTM </strong></li>
-<li><em>Îmi place foarte mult să dorm</em> </li>
-</ul>
+# Laura Mazur
+1.Am studiat la _* Gimnaziul Tîrșiței
+2.În prezent studiez la *** CUTM ***
+3.Îmi place foarte mult să dorm
