@@ -1,6 +1,6 @@
 # Laura Mazur
-- Am studiat la _*Gimnaziul Tîrșiței*_.
+- Am studiat la `Gimnaziul Tîrșiței`.
 
 - În prezent studiez la ***CUTM***.
 
-- Îmi place foarte mult să dorm.
+- *Îmi place foarte mult să dorm*.
