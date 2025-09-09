@@ -1,5 +1,5 @@
 # Laura Mazur
-- Am studiat la _*Gimnaziul Tîrșiței.
+- Am studiat la _*Gimnaziul Tîrșiței*_.
 
 - În prezent studiez la ***CUTM***.
 
