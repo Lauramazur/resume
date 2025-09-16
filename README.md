@@ -1,4 +1,4 @@
-# Laura Mazur
+# Laura Mazur DAW-241
 # Studii
 - Am studiat la `Gimnaziul Tîrșiței`.
 
