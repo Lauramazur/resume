@@ -4,3 +4,5 @@
 - În prezent studiez la ***CUTM***.
 
 - *Îmi place foarte mult să dorm*.
+- dansuri
+- 
