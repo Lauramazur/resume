@@ -1,4 +1,5 @@
 # Laura Mazur
+# Studii
 - Am studiat la `Gimnaziul Tîrșiței`.
 
 - În prezent studiez la ***CUTM***.
