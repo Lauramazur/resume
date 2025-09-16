@@ -2,7 +2,7 @@
 - Am studiat la `Gimnaziul Tîrșiței`.
 
 - În prezent studiez la ***CUTM***.
-#Hoby
+ # Hoby
 - *Îmi place foarte mult să dorm*.
 - dansuri
 - lectura
